@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi! I'm Prateek!
 
 <!--
 **prateek754/prateek754** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I'm a graduate student working on auditory cognition, and perception in songbirds. 
+I've worked on automated classification of bird calls, focusing on biologically relevant acoustic features. I'm currently learning various automated bioacoustic methods. 
+
+Reach me:
+Email: [prateek6289 [at] gmail [dot] com](mailto:prateek6289@gmail.com) 
