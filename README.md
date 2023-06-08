@@ -17,6 +17,4 @@ Here are some ideas to get you started:
 I'm a graduate student working on auditory cognition, and perception in songbirds. 
 I've worked on automated classification of bird calls, focusing on biologically relevant acoustic features. I'm currently learning various automated bioacoustic methods. 
 
-Reach me:
-
 Email: [prateek6289 [at] gmail [dot] com](mailto:prateek6289@gmail.com) 
