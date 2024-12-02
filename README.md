@@ -14,8 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I'm PhD Candidate at University of Alberta, working on auditory cognition, and perception in songbirds at [Songbird Neuroethology Lab](https://sites.psych.ualberta.ca/songbirdneuroethologylab/). 
-I've worked on automated classification of bird calls, focusing on biologically relevant acoustic features. I'm currently learning various automated bioacoustic methods in R, Python, Praat, and Audacity. Also learning and working on Bayesian statistics and data visualization.
+I’m a Ph.D. candidate at the University of Alberta, studying auditory cognition and perception in songbirds at the [Songbird Neuroethology Lab](https://sites.psych.ualberta.ca/songbirdneuroethologylab/). My work has focused on automated classification of bird calls, with an emphasis on biologically significant acoustic features. I am currently expanding my expertise in bioacoustic analysis using R, Python, Praat, and Audacity, while also exploring Bayesian statistics and enhancing my data visualization skills.
+
+👯 I’m looking to collaborate for developing automated acoustic complexity measurement tools for classification, with the aim of using the output in experimental research.
+
 
 Email: [prateek6289 [at] gmail [dot] com](mailto:prateek6289@gmail.com) 
 
